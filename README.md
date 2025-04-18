@@ -2,6 +2,8 @@
 
 Este é um aplicativo simples feito com **Streamlit** para buscar letras de músicas usando a [API lyrics.ovh](https://lyrics.ovh/). Ele permite ao usuário inserir o nome do artista e da música e exibe a letra correspondente — se encontrada.
 
+👉 [Clique aqui para abrir no Streamlit Cloud](https://lyrics-api-music.streamlit.app/)
+
 ---
 
 ## 🚀 Como usar
